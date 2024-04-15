@@ -1,4 +1,4 @@
-**Project Title:** Amazon Sales Data Analysis
+## Project Title: Amazon Sales Data Analysis
 
 **Overview**
 This project delved into sales data analysis using Power BI. I developed skills in data transformation, metric calculation, and crafting compelling data visualizations.
@@ -20,4 +20,4 @@ This project delved into sales data analysis using Power BI. I developed skills 
 * Communicating insights visually
 
 **Report Preview**
-* [Include a 1-2 sentence summary of the problem statement and your most significant findings.]
+![Final Report](/images/Report.jpg)
